@@ -1,3 +1,3 @@
 # CDN
 
-Just a repository for staff.
+A repository for things.
